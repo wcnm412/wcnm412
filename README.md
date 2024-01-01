@@ -1,9 +1,9 @@
-Student at North Sydney Boys High School, studying Software Engineering 
+Student
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on: nothing rn
 - 📫 How to reach me:
-    - Email at jeffrey.tang107@gmail.com
+    - WILL BE ADDED IN FUTURE
 
 <!---
 wcnm412/wcnm412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
